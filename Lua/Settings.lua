@@ -1,0 +1,3 @@
+settings={
+ ["defaultNum"] = 3,
+}
