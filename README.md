@@ -2,7 +2,7 @@
 New Sanguosha using lua and QT and qml,highly customizable
 
 Here are some additional limitations:
-1.Anybody can't use the code to do anything without my permission.
+1.Anybody can't use these codes to do anything without my permission.
 
 Here are some notices:
 1.my email is 1520101906@qq.com
