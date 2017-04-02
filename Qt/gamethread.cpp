@@ -789,7 +789,7 @@ void GameThread::call1String(char *fname, char *s){
     if (lua_pcall(L, 1, 0, 0) != 0)qDebug()<<lua_tostring(L, -1);
 }
 
-void GameThread::call1String(char *fname, std::__1::string s)
+void GameThread::call1String(char *fname,std::string s)
 {
     lua_getglobal(L, fname);
     lua_pushlstring(L,s.c_str(),s.size());
