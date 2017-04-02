@@ -1,10 +1,10 @@
 #ifndef GAMETHREAD_H
 #define GAMETHREAD_H
 extern "C" {
-#include </Users/hrf/Documents/Docs-Resource/lua-5.1.5/src/lua.h>
-#include </Users/hrf/Documents/Docs-Resource/lua-5.1.5/src/lauxlib.h>
-#include </Users/hrf/Documents/Docs-Resource/lua-5.1.5/src/lualib.h>
-#include </Users/hrf/Documents/Docs-Resource/lua-5.1.5/src/luaconf.h>
+#include <../lua-5.1.5/src/lua.h>
+#include <../lua-5.1.5/src/lauxlib.h>
+#include <../lua-5.1.5/src/lualib.h>
+#include <../lua-5.1.5/src/luaconf.h>
 }
 #include "qthread.h"
 #include "qdebug.h"
